@@ -1,0 +1,45 @@
+
+
+.imgLand{
+
+    width: 90%;
+    margin: auto;
+ }
+
+.contacto{
+    border-left: 1px solid rgb(141, 141, 141);
+
+
+}
+
+form{
+    margin: 10%;
+}
+
+.fotoPersonal{
+    width: 90%;
+    border-radius: 50%;
+    margin: auto;
+    padding: 2%;
+}
+
+.datosPersonales{
+    text-align: center;
+    
+}
+
+.piePagina{
+    display: block;
+    color: white;
+    background-color: rgba(8, 92, 202, 0.616);
+}
+.header h1{
+    margin: auto;
+    padding: auto;
+}
+
+.header .navbar {
+    background-color: transparent !important;
+    margin: auto;
+    padding: auto;
+  }
